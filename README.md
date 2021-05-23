@@ -7,3 +7,4 @@
 
 ![screenshot](https://github.com/blackcodding/Analog-Clock/blob/master/Clock-gif.gif)
 ![screenshot](https://github.com/blackcodding/Analog-Clock/blob/master/clock-screenshot-1.PNG)
+![screenshot](https://github.com/blackcodding/Analog-Clock/blob/master/clock-screenshot-2.PNG)
