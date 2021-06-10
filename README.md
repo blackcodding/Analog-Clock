@@ -1,9 +1,10 @@
 # Analog-Clock 🕖
 
 - Build a Responsive Analog Clock with attractive UI.
+- Accurate hour, minute and seconds ratio.
 - Implemented by HTML5, CSS3 and Vanila Js.
 
-## Screenshots Below 👇
+Screenshots Below 👇
 
 ![screenshot](https://github.com/blackcodding/Analog-Clock/blob/master/Clock-gif.gif)
 ![screenshot](https://github.com/blackcodding/Analog-Clock/blob/master/clock-screenshot-1.PNG)
