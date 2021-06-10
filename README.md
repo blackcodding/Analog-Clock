@@ -1,4 +1,4 @@
-# Analog-Clock 🕖⏰
+# Analog-Clock 🕖
 
 - Build a Responsive Analog Clock with attractive UI.
 - Implemented by HTML5, CSS3 and Vanila Js.
