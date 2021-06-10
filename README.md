@@ -7,4 +7,3 @@
 Screenshots Below 👇
 
 ![screenshot](https://github.com/blackcodding/Analog-Clock/blob/master/Clock-gif.gif)
-![screenshot](https://github.com/blackcodding/Analog-Clock/blob/master/clock-screenshot-1.PNG)
